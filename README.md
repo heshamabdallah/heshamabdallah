@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Hesham AbdAllah
+
+I'm software engineer with a background of 7 years in web development.
+
+I have been working with PHP, OOP, Symfony, Laravel, SOLID, DRY, KISS, CI / CD, MVC, Symfony, Javascript, NodeJs, Typescript, VanillaJs, VueJs, NuxtJs, ReactJs, NextJs, GraphQl, SQL, Scraping, Crawling, CRM, CMS, SASS, ERP systems, AJAX, MySql, MongoDB, Microsoft SQL, Redis, jQuery, Data Visualization, HighCharts, GoogleCharts, Google Map, ChartsJs, Amcharts, JSON, Bootstrap, Tailwind, Materialize, Html, Html5, Css3 and many more.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **heshamabdallah/heshamabdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
