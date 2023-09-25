@@ -2,10 +2,13 @@
 
 I'm software engineer with a background of 7 years in web development.
 
-I have been working with PHP, OOP, Symfony, Laravel, SOLID, DRY, KISS, CI / CD, MVC, Symfony, Javascript, NodeJs, Typescript, VanillaJs, VueJs, NuxtJs, ReactJs, NextJs, GraphQl, SQL, Scraping, Crawling, CRM, CMS, SASS, ERP systems, AJAX, MySql, MongoDB, Microsoft SQL, Redis, jQuery, Data Visualization, HighCharts, GoogleCharts, Google Map, ChartsJs, Amcharts, JSON, Bootstrap, Tailwind, Materialize, Html, Html5, Css3 and many more.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
+- I'm currently taking the lead of [Payiano](https://github.com/payiano) team.
+- Provide technical leadership to teammates through coaching and mentorship.
+- Guide the team towards successful project delivery and providing technical support to them.
+- Collaborates with product owners to ensure requirements are met and delivered accurately.
+- Offering inputs to architects on the technical solutions.
+- Leading continuous improvement efforts in the development team.
+- Troubleshooting technical and other issues that impact the team.
 
 <!--
 **heshamabdallah/heshamabdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
